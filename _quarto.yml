@@ -1,13 +1,10 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "CSP2023"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+
 
 format:
   html:
