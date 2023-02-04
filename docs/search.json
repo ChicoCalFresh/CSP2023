@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "CSP2023.html",
-    "href": "CSP2023.html",
-    "title": "Reducing costs, burden, and risk of human error in large scale survey data collection and Scope of Work reporting using Automation",
-    "section": "",
-    "text": "Problem StatementExample 1Example 2Impact on Workload\n\n\n\n\n\n\n\n\nProblem\n\n\n\nOngoing activities involving multiple stages or partner organizations–such as tracking survey participants or program subcontractor activities–can result in time-consuming and expensive data collection processes that are at risk of human error.\n\n\n\n\n\n\n\n\nOur Solution - Automate it!\n\n\n\n\nReplace or streamlined connections between data collection tools like Google Forms, Excel, and Qualtrics\nAutomate tracking and contacts points such as survey reminders, compensation,\nReduced the risk of mistakes at critical points such as survey eligibility, aggregation and summarization for funder reports\n\n\n\n\n\nBasic Needs Student Success Survey\nStatewide Dissemination of a survey to assess the impact of Basic Needs programs such as Cal Fresh (SNAP benefits for food) on student academic success measures such as mental health and wellness, eating healthier foods, and doing better in classes.\n\n\n\n\nR Packages used: - Import: googlesheets4, qualtRics, readr, readxl - Wrangle: dplyr, stringr, janitor - Email: gmailr\n\n\nScope of work Funder reporting With 50 subcontracting campuses across California, CHC needs to collect a lot of data from each site that’s collected in multiple formats. The funder requires a specific reporting template, and we wanted to provide a way to share out with the campuses their outreach progress.\n\n\n\n\nR Packages used:\n\nImport: googlesheets4, readxl, googledrive\n\nWrangle: dplyr, tidyr, rmarkdown, stringr, janitor, lubridate, zoo, naniar, foreach\n\nVisualize & deploy: shiny, writexl, scales\n\n\n\n\n90% reduction of personnel costs associated with survey administration (800hr/30wk)\n98% reduction for funder reporting (2048hr/yr).\nAllowed for an expanded recruitment at effectively the same cost.\nAllowed for more time to be spent on program implementation\neased the reporting burden on the subcontractors."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Reducing costs, burden, and risk of human error in large scale survey data collection and Scope of Work reporting using Automation",

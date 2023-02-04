@@ -1,6 +1,7 @@
 ---
 title: "Reducing costs, burden, and risk of human error in large scale survey data collection and Scope of Work reporting using Automation"
 author: "Robin Donatello, DrPH, Derek Helms, Sufiyan Syed \n California State University, Chico"
+theme: sandstone
 ---
 
 ::: panel-tabset
